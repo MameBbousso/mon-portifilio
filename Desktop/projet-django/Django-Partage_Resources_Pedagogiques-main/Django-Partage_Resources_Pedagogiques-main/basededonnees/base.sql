@@ -1,0 +1,1 @@
+CREATE DATABASE uni_share_db;

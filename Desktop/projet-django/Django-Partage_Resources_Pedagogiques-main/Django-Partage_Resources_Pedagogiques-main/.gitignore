@@ -1,0 +1,4 @@
+!requirement.txt
+uni_share/uni_share/settings.py
+uni_share/uni_share/__pycache__/
+projet/
